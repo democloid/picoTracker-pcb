@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65135RTER
+D Split-Rail Converter, Single-Inductor, Multiple-Output (SIMO) Regulator
+K
+F http://www.ti.com/lit/gpn/tps65135
+$ENDCMP
+#
+#End Doc Library

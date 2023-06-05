@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA1650QPWRQ1
+D Automotive, High Common-mode Rejection, Low Distortion Differential Audio Line Receiver
+K
+F http://www.ti.com/lit/gpn/ina1650-q1
+$ENDCMP
+#
+#End Doc Library

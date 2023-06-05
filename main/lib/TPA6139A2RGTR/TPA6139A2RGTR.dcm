@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA6139A2RGTR
+D DirectPath 25mW Headphone Amplifier
+K
+F http://www.ti.com/lit/gpn/TPA6139A2
+$ENDCMP
+#
+#End Doc Library

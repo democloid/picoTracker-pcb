@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA6120A2RGYT
+D High Fidelity Stereo Headphone Amplifier
+K
+F http://www.ti.com/lit/gpn/tpa6120a2
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM5242RHBT
+D 4.2-VRMS DirectPath, 114-dB Audio Stereo Differential-Output DAC with 32-bit, 384-kHz PCM Interface
+K
+F 
+$ENDCMP
+#
+#End Doc Library

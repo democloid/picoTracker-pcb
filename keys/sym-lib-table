@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "TPA6139A2")(type "KiCad")(uri "${KIPRJMOD}/lib/TPA6139A2RGTR/TPA6139A2RGTR.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM5242RHBT")(type "KiCad")(uri "${KIPRJMOD}/lib/PCM5242RHBT/PCM5242RHBT.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS65135")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS65135RTER/TPS65135RTER.kicad_sym")(options "")(descr ""))
+  (lib (name "TPA6120A2DWPR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPA6120A2DWPR/TPA6120A2DWPR.kicad_sym")(options "")(descr ""))
+  (lib (name "INA1650QPWRQ1")(type "KiCad")(uri "${KIPRJMOD}/lib/INA1650QPWRQ1/INA1650QPWRQ1.kicad_sym")(options "")(descr ""))
+)

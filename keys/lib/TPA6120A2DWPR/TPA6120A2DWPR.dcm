@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA6120A2DWPR
+D Audio Amplifiers High Fidelity Stereo Headphone Drv
+K
+F http://www.ti.com/lit/ds/symlink/tpa6120a2.pdf
+$ENDCMP
+#
+#End Doc Library
